@@ -1,5 +1,5 @@
 # eos
-EOS智能合约与DApp开发入门教程：http://xc.hubwiz.com/course/5b52c0a2c02e6b6a59171ded
+EOS智能合约与DApp开发入门实战教程：[http://xc.hubwiz.com/course/5b52c0a2c02e6b6a59171ded](http://xc.hubwiz.com/course/5b52c0a2c02e6b6a59171ded?affid=726github)
 
 ### 一、进入EOS世界
 * 1.1 初识EOS
